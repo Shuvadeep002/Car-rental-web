@@ -1,0 +1,13 @@
+.custom-side-drawer {
+    width: 250px;
+}
+
+.lable-text {
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.lable-text:hover {
+    font-weight: 800;
+    color: #11009E;
+}
